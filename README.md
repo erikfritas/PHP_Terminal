@@ -2,7 +2,7 @@
 🐘 A Terminal made in PHP
 
 ## How to use:
-Open your terminal and type:
+Open your terminal in the folder where the "terminal.php" file you downloaded is located and type:
 ```
 sudo php terminal.php
 ```
